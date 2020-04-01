@@ -1,0 +1,415 @@
+#background{
+	background-image: url(../images/1st.png);
+	position: absolute;
+	height: 623px;
+	left: 0.05px;
+	top: 0px;
+}
+
+#logo{
+	padding-left: 9%;
+}
+
+.box{
+	margin-top: 4%;
+	padding-left: 9%;
+    padding-right: 7%;;
+}
+#button{
+	border: 1px solid #ffffff;
+	color: #ffffff; 
+	border-radius: 0px;
+	padding: 8px 20px;
+	opacity: 1;
+	color: white;
+	letter-spacing: 2px;
+	font-size: 18px;
+	font-family: 'Saira Extra Condensed', sans-serif;
+}
+#button:hover{
+	background-color: white;
+	color: #1732A4;
+	text-decoration: none;
+}
+
+.button_a{
+
+	color: white;
+}
+.button:hover{
+	background-color: white;
+}
+.button_a:hover{
+	background-color: white;
+	color: #1732A4;
+	text-decoration: none;
+}
+
+.logoimage1{
+	padding: 1px;
+}
+.heading{
+	margin-left: 30px;
+}
+#button1{
+	color: #ffffff; 
+	border-radius: 0px;
+	padding: 4px 30px;
+	letter-spacing: 2px;
+	font-family: 'Saira Extra Condensed', sans-serif;
+}
+.button_a1{
+	color: white;
+}
+.button_enroll{
+	background-color: #F57082;
+}
+.button_enroll:hover{
+	background-color: #F04F65;
+}
+.button_a1:hover{
+	color: white;
+	text-decoration: none;
+}
+.button_text{
+	font-size: 18px;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	letter-spacing: 3px;
+}
+.limitedSeats{
+	font-size: 10px;
+    margin-top: -3px;
+    margin-bottom: 0px;
+}
+.text{
+	font-family: 'Saira Extra Condensed', sans-serif;
+	letter-spacing: 1px;
+	font-style: medium;
+	font-size: 44px;
+	font-style: medium;
+	color: #000000;
+}
+.text1{
+	font-family: 'Saira Extra Condensed', sans-serif;
+	letter-spacing: 1px;
+	font-size: 24px;
+	text-decoration: none;
+	color: #ffffff;
+}
+.text1 : hover{
+	text-decoration: none;
+	color: #000000;
+}
+
+.box2{
+	margin-top: 700px;
+	padding-left: 9%;
+    padding-right: 7%;
+}
+.text2{
+	font-family: 'Saira Extra Condensed', sans-serif;
+line-height: 180%;
+
+	font-size: 20px;
+	color: #73738D;
+}
+
+.box_date{
+	position: sticky;
+    top: 300px;
+    z-index: 2;
+    width: 25%;
+    margin-top: 150px;
+    margin-bottom: 300px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.text3{
+	font-size: 24px;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-style: medium;
+}
+
+.image{
+	height: 623px;
+	width: 98%;
+	margin-left: 12px;
+	margin-right: 12px;
+}
+#icon_figma{
+	height: 95px;
+	width: 95px;
+}
+.box3{
+	box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.05);
+	padding: 7%;
+    height: 100%;
+    width: 100%;
+	position: relative;
+}
+.name{
+	position: relative;
+    bottom: 0;
+}
+#icon_comma{
+	height: 27px;
+	width: 27px;
+}
+#icon_person{
+	height: 48px;
+	width: 48px;
+}
+#background1{
+	background-image: url(../images/last.svg);
+	position: absolute;
+	margin-top: 12%;
+	padding-left: 16%;
+    padding-right: 13%;
+	height: 250px;
+	left: 0.05px;
+}
+.box4{
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.05);
+	padding: 30px;
+	margin-top: -4%;
+}
+#button2{
+	color: #ffffff; 
+	border-radius: 0px;
+	padding: 8px 14px;
+	font-family: 'Saira Extra Condensed', sans-serif;
+	letter-spacing: 2px;
+	background-color: #F57082;
+}
+
+.figma1{
+	height: 95px;
+	width: 95px;
+	margin-top: 30px;
+}
+
+.thanktext{
+	margin-top: 5%;
+}
+#top_thank{
+	margin-top: 30px;
+}
+.refer{
+	border: 1px solid #D7D7DE;
+	border-radius: 30px;
+	padding-top: 10px;
+}
+.sign{
+	font-family: 'Saira Extra Condensed', sans-serif;
+	    font-size: 20px;
+}
+.price{
+	font-size: 36px;
+	font-family:'Saira Extra Condensed', sans-serif
+}
+.want_to{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.join{
+	margin-left: -14px;
+    border: 2px solid white;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+.circle{
+	margin-left: -14px;
+    border: 2px solid white;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #1732A4;
+}
+.marg{
+	margin-left: 30px;
+}
+
+/* single_page CSS */
+
+.background{
+	background-color: blue;
+}
+.logo_center{
+	position: absolute;
+	top: 32%;
+    left: 29%;
+}
+.set_pos{
+	position: relative;
+    margin-top: 38%;
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.singlefigma{
+	margin-top: 0px;
+}
+.button_single{
+	margin-top: 13%;
+}
+.single_button{
+	width: 100%;
+}
+
+
+/* Snippet Code */
+
+.Snippet{
+	position: fixed;
+    bottom: 7%;
+    left: 70%;
+    box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.05);
+    width: 20%;
+    padding: 1%;
+    border-radius: 5px;
+    background-color: white;
+} 
+.Snippet:after{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 100%;
+	left: 47%;
+	bottom: 0%;
+	content: '';
+	transform: rotate(45deg);
+	margin-top: -10px;
+	background-color: white;
+}
+@media only screen and (max-width: 900px) {
+    #background{
+	height: 481px;
+	background-image: url(../images/resp.png);
+	}
+	#logo{
+	padding-left: 0%;
+	width: 70%;
+	}
+	.button_resp{
+		display: none;
+	}
+	.sign{
+		display: none;
+	}
+	.logoimage2{
+		display: none;
+	}
+	#button{
+		width: 100%;
+	}
+	.box{
+		margin-top: 15%;
+		padding-left: 0%;
+    	padding-right: 0%;;
+    }
+    #icon_figma{
+	height: 50px;
+	width: 50px;
+	margin-bottom: 10px;
+	}
+	.heading{
+	margin-left: 0px;
+	}	
+    .text{
+	font-size: 28px;
+	}
+    .text1{
+	font-size: 14px;
+	}
+	.text_resp1{
+		opacity: 90%;
+	}
+	.box3{
+	box-shadow: 0px 0px 36px rgba(0, 0, 0, 0.05);
+	padding: 7%;
+    height: 95%;
+    width: 100%;
+	position: relative;
+	}
+	.name_image{
+		width: 30%;
+	}
+	.name_text{
+		width: 70%;
+	}
+	#button1{
+	width: 100%;
+	}
+	.box2{
+	margin-top: 523px;
+	padding-left: 9%;
+	padding-right: 7%;
+	}
+	.text2{
+	font-size: 18px;
+	}
+	#background1{
+	padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 30%;
+	height: 260px;
+	left: 0.05px;
+	}
+	.box4{
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.05);
+	padding: 10px;
+	margin-top: -10%;
+	}
+	.box3_resp{
+		margin-bottom: 25%;
+	}
+	.figma1{
+	margin-top: -15%;
+    margin-left: 40%;
+    height: 72px;
+    width: 70px;
+	}
+	#button2{
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 100%;
+	}
+	.button_resp_desk{
+	margin-top: 0px;
+	}
+	.figma{
+	margin-left: 0%;
+	width: 99%;
+    }
+    .refer{
+	margin: 0 5px;
+	}
+	.thank{
+		margin-top: 20%;
+	}
+	.box_thank{
+		margin-top: -37%;
+	}
+	.box3_resp1{
+		margin-bottom: 6%;
+	}
+	.marg{
+	margin-left: 0px;
+    }
+    .set_pos{
+	position: relative;
+    margin-top: 135%;
+    padding-left: 0%;
+    padding-right: 0%;
+    }
+    .logo_center{
+    top: 37%;
+    left: 0;
+    width: 88%;
+    left: 10%;
+    }
+    .logo_single{
+    	width: 90%;
+    }
+}
